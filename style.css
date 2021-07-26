@@ -1,0 +1,15 @@
+body {
+    padding:0;
+    margin:0;
+    background:rgb(71, 70, 70);
+  }
+  canvas {
+    display:block;
+    margin:15px auto 0;
+    border:3px solid wheat;
+    background:#000;
+  }
+  h1{
+    text-align: center;
+    color: wheat;
+  }
