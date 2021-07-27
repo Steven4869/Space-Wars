@@ -167,7 +167,7 @@ function scoreTotal() {
     ctx.font = 'bold 25px Arial'
     ctx.fillText('Game Over', 225, 300)
     ctx.fillStyle = 'wheat'
-    ctx.fillText('Click to Continue', 182, (height / 2) + 35)
+    ctx.fillText('Return to Homepage', 182, (height / 2) + 35)
     canvas.addEventListener('click', window.location.reload())
   }
   if(!gameStarted){
